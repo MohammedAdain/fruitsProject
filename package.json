@@ -1,0 +1,15 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "Linking mongoDB using native driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MohammedAdain",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.15"
+  }
+}
